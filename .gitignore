@@ -1,0 +1,13 @@
+LLVMTuner/Benchmarks/
+RustCTuner/Benchmarks/
+
+__pycache__/
+*.pyc
+.DS_Store
+
+*.log
+repeat_*/
+rustc_batch_results*/
+rustc_runtimebench_program_results*/
+rustc_ablation_results*/
+llvm_batch_results*/

@@ -1,0 +1,576 @@
+{
+  "2mm": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.99586292,
+      "joint_mir_llvm": 1.026357
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.002039763,
+      "joint_mir_llvm": 1.028662
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.009874053,
+      "joint_mir_llvm": 1.028572
+    }
+  },
+  "3mm": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.00828534,
+      "joint_mir_llvm": 1.016575
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.087690709,
+      "joint_mir_llvm": 1.017039
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.003157182,
+      "joint_mir_llvm": 1.019473
+    }
+  },
+  "adi": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.19182038,
+      "joint_mir_llvm": 1.16912
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.219530418,
+      "joint_mir_llvm": 1.180333
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.275627449,
+      "joint_mir_llvm": 1.188178
+    }
+  },
+  "atax": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.97245787,
+      "joint_mir_llvm": 1.271324
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.072885003,
+      "joint_mir_llvm": 1.373406
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.105088089,
+      "joint_mir_llvm": 1.287447
+    }
+  },
+  "bicg": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.913169342,
+      "joint_mir_llvm": 1.326012
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.101054393,
+      "joint_mir_llvm": 1.354844
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.106283251,
+      "joint_mir_llvm": 1.317511
+    }
+  },
+  "bufreader": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.993503237,
+      "joint_mir_llvm": 1.204488
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.004585622,
+      "joint_mir_llvm": 1.203113
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.015101768,
+      "joint_mir_llvm": 1.216905
+    }
+  },
+  "cholesky": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.029110877,
+      "joint_mir_llvm": 1.054287
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.026715924,
+      "joint_mir_llvm": 1.076932
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.042539869,
+      "joint_mir_llvm": 1.07658
+    }
+  },
+  "compression": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.856327326,
+      "joint_mir_llvm": 1.025735
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.009538469,
+      "joint_mir_llvm": 1.045198
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 0.999342934,
+      "joint_mir_llvm": 1.197676
+    }
+  },
+  "correlation": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.021159183,
+      "joint_mir_llvm": 1.272096
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.009646263,
+      "joint_mir_llvm": 1.071733
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.009821007,
+      "joint_mir_llvm": 1.060087
+    }
+  },
+  "covariance": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.011970363,
+      "joint_mir_llvm": 1.025597
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.001141907,
+      "joint_mir_llvm": 1.017866
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 0.986908503,
+      "joint_mir_llvm": 1.044596
+    }
+  },
+  "css": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.087584897,
+      "joint_mir_llvm": 1.216179
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.010432716,
+      "joint_mir_llvm": 1.296735
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.018580602,
+      "joint_mir_llvm": 1.333946
+    }
+  },
+  "deriche": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.010189472,
+      "joint_mir_llvm": 1.123137
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.001197122,
+      "joint_mir_llvm": 1.132928
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.019814084,
+      "joint_mir_llvm": 1.12986
+    }
+  },
+  "doitgen": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.038563597,
+      "joint_mir_llvm": 1.133351
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.024490933,
+      "joint_mir_llvm": 1.11492
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.007477454,
+      "joint_mir_llvm": 1.139821
+    }
+  },
+  "durbin": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.75160059,
+      "joint_mir_llvm": 1.378772
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.138021866,
+      "joint_mir_llvm": 1.422394
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.010098713,
+      "joint_mir_llvm": 1.383026
+    }
+  },
+  "fdtd_2d": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.977289721,
+      "joint_mir_llvm": 1.201825
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.03823651,
+      "joint_mir_llvm": 1.15387
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.509574218,
+      "joint_mir_llvm": 1.200625
+    }
+  },
+  "floyd_warshall": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.095730253,
+      "joint_mir_llvm": 1.1167
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.091162904,
+      "joint_mir_llvm": 1.120307
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.089890346,
+      "joint_mir_llvm": 1.126906
+    }
+  },
+  "fmt": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.992223791,
+      "joint_mir_llvm": 1.304506
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.01680113,
+      "joint_mir_llvm": 1.370034
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.001802921,
+      "joint_mir_llvm": 1.276001
+    }
+  },
+  "gemm": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.018267651,
+      "joint_mir_llvm": 1.078283
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.002501696,
+      "joint_mir_llvm": 1.080978
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.006426109,
+      "joint_mir_llvm": 1.155008
+    }
+  },
+  "gemver": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.995055319,
+      "joint_mir_llvm": 1.072062
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.071283843,
+      "joint_mir_llvm": 1.103163
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.106435265,
+      "joint_mir_llvm": 1.111288
+    }
+  },
+  "gesummv": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.995697958,
+      "joint_mir_llvm": 1.170895
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.10557892,
+      "joint_mir_llvm": 1.152627
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.095377048,
+      "joint_mir_llvm": 1.147626
+    }
+  },
+  "gramschmidt": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.954871262,
+      "joint_mir_llvm": 1.020421
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.054976382,
+      "joint_mir_llvm": 1.022161
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.011823536,
+      "joint_mir_llvm": 1.01841
+    }
+  },
+  "hashmap": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.913833575,
+      "joint_mir_llvm": 1.38549
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 0.842755921,
+      "joint_mir_llvm": 1.419301
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 0.901611717,
+      "joint_mir_llvm": 1.381687
+    }
+  },
+  "heat_3d": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.014771793,
+      "joint_mir_llvm": 1.635301
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.064146121,
+      "joint_mir_llvm": 1.114422
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 0.994225223,
+      "joint_mir_llvm": 1.196316
+    }
+  },
+  "jacobi_1d": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.91636552,
+      "joint_mir_llvm": 1.279349
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.025400836,
+      "joint_mir_llvm": 1.318963
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.038256097,
+      "joint_mir_llvm": 1.336124
+    }
+  },
+  "jacobi_2d": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.010043944,
+      "joint_mir_llvm": 1.209472
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.065911808,
+      "joint_mir_llvm": 1.63097
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.047656909,
+      "joint_mir_llvm": 1.477501
+    }
+  },
+  "lu": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.008594161,
+      "joint_mir_llvm": 1.038473
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.023987618,
+      "joint_mir_llvm": 1.066391
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.123253585,
+      "joint_mir_llvm": 1.078737
+    }
+  },
+  "ludcmp": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.062649566,
+      "joint_mir_llvm": 1.037416
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.104196693,
+      "joint_mir_llvm": 1.062059
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.05603459,
+      "joint_mir_llvm": 1.063881
+    }
+  },
+  "mvt": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.968315068,
+      "joint_mir_llvm": 1.174919
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.014511824,
+      "joint_mir_llvm": 1.200137
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.036746221,
+      "joint_mir_llvm": 1.212348
+    }
+  },
+  "nbody": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.997828432,
+      "joint_mir_llvm": 1.081872
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.012269476,
+      "joint_mir_llvm": 1.057485
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.026026377,
+      "joint_mir_llvm": 1.069924
+    }
+  },
+  "nes": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.933753305,
+      "joint_mir_llvm": 1.10164
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 0.92570549,
+      "joint_mir_llvm": 1.109157
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 0.951977444,
+      "joint_mir_llvm": 1.242315
+    }
+  },
+  "nussinov": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.44303548,
+      "joint_mir_llvm": 1.559009
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.511517305,
+      "joint_mir_llvm": 1.723257
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.179960065,
+      "joint_mir_llvm": 1.133575
+    }
+  },
+  "parsing": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.839625741,
+      "joint_mir_llvm": 1.071177
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 0.895190382,
+      "joint_mir_llvm": 1.000711
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 0.883983749,
+      "joint_mir_llvm": 0.982224
+    }
+  },
+  "raytracer": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.97663157,
+      "joint_mir_llvm": 1.390342
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.131735503,
+      "joint_mir_llvm": 1.608961
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.076324103,
+      "joint_mir_llvm": 2.092182
+    }
+  },
+  "seidel_2d": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.984934562,
+      "joint_mir_llvm": 1.05217
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.024757418,
+      "joint_mir_llvm": 1.063529
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.015539454,
+      "joint_mir_llvm": 1.063409
+    }
+  },
+  "svg": {
+    "CompTuner": {
+      "combined_mir_llvm": 0.993318784,
+      "joint_mir_llvm": 1.17512
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.042764188,
+      "joint_mir_llvm": 1.234782
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.034195353,
+      "joint_mir_llvm": 1.284462
+    }
+  },
+  "symm": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.028732414,
+      "joint_mir_llvm": 1.078171
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 0.999354613,
+      "joint_mir_llvm": 1.114837
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.002660115,
+      "joint_mir_llvm": 1.042404
+    }
+  },
+  "syr2k": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.355794755,
+      "joint_mir_llvm": 1.598046
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.075492087,
+      "joint_mir_llvm": 1.769842
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.066710022,
+      "joint_mir_llvm": 1.61488
+    }
+  },
+  "syrk": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.707740428,
+      "joint_mir_llvm": 1.397172
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.35241473,
+      "joint_mir_llvm": 1.418776
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.373808635,
+      "joint_mir_llvm": 1.495909
+    }
+  },
+  "text-search": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.138791743,
+      "joint_mir_llvm": 1.353588
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.013577811,
+      "joint_mir_llvm": 1.353811
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 0.992456017,
+      "joint_mir_llvm": 1.354783
+    }
+  },
+  "trisolv": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.194757024,
+      "joint_mir_llvm": 1.271879
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 1.025929365,
+      "joint_mir_llvm": 1.258567
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.072727532,
+      "joint_mir_llvm": 1.32068
+    }
+  },
+  "trmm": {
+    "CompTuner": {
+      "combined_mir_llvm": 1.011236955,
+      "joint_mir_llvm": 1.095691
+    },
+    "PDCAT": {
+      "combined_mir_llvm": 0.998246711,
+      "joint_mir_llvm": 1.177485
+    },
+    "GroupTuner": {
+      "combined_mir_llvm": 1.006897119,
+      "joint_mir_llvm": 1.069609
+    }
+  }
+}

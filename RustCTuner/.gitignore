@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Rust build artifacts
+target/
+**/target/
+*.rlib
+*.rmeta
+*.d
+
+# Rust lock file
+# Cargo.lock
+
+# LLVM / compiler artifacts
+*.o
+*.bc
+*.ll
+*.s
+*.a
+*.so
+*.out
+
+# Logs and results
+*.log
+log.txt
+results/
+Results/
+tuning_results/
+logs/
+
+# Temp / build
+tmp/
+temp/
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
